@@ -33,31 +33,6 @@ Teaching
     * Graded assignments, offering detailed feedback to clarify concepts and guide students toward improved academic performance.
   * Supervisor: Professor Huynh Bao Tan
 
-Skills
-======
-
-* **Certifications**
-  * CITI Certification (Research Ethics and Human Subjects)
-
-* **Programming & Tools**
-  * R (Data Analysis, Visualization, Econometrics)
-  * Python (Data Manipulation, Machine Learning)
-  * Overleaf / LaTeX (Academic Writing, Formatting)
-
-* **Econometric & Statistical Methods**
-  * Econometrics: OLS, Instrumental Variables (IV), Generalized Method of Moments (GMM)
-  * Panel Data Methods: Fixed Effects (FE), Random Effects (RE), Difference-in-Differences (DiD), Panel VAR
-  * Bayesian Estimation: Bayesian Models with Hierarchical Priors
-  * Time Series Analysis: ARIMA, Unit Root Testing
-  * Optimization: Lagrangian Methods, Nonlinear Optimization
-  * Machine Learning: Regression, Random Forests, Deep Learning
-
-* **Economic Models**
-  * Microeconomic Theory
-  * Macroeconomic Theory
-  * Urban Economics
-  * Development Economics
-
 Working Papers
 ==============
 
@@ -102,6 +77,31 @@ Working Papers
   * Employs a Bayesian Panel VAR-X model with hierarchical priors and partial pooling.
   * Models both direct and indirect effects using binary and severity-weighted tariff shocks.
   * Finds significant negative effects for China, with limited evidence for spillovers to other countries.
+
+  Skills
+======
+
+* **Certifications**
+  * CITI Certification (Research Ethics and Human Subjects)
+
+* **Programming & Tools**
+  * R (Data Analysis, Visualization, Econometrics)
+  * Python (Data Manipulation, Machine Learning)
+  * Overleaf / LaTeX (Academic Writing, Formatting)
+
+* **Econometric & Statistical Methods**
+  * Econometrics: OLS, Instrumental Variables (IV), Generalized Method of Moments (GMM)
+  * Panel Data Methods: Fixed Effects (FE), Random Effects (RE), Difference-in-Differences (DiD), Panel VAR
+  * Bayesian Estimation: Bayesian Models with Hierarchical Priors
+  * Time Series Analysis: ARIMA, Unit Root Testing
+  * Optimization: Lagrangian Methods, Nonlinear Optimization
+  * Machine Learning: Regression, Random Forests, Deep Learning
+
+* **Economic Models**
+  * Microeconomic Theory
+  * Macroeconomic Theory
+  * Urban Economics
+  * Development Economics
 
 Leadership and Service
 =====================
