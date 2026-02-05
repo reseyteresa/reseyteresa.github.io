@@ -4,7 +4,7 @@ Shocks on Direct and Indirectly Affected Economies:
 A Bayesian Hierarchical Panel Vector Auto
 Regression - Exogenous Approach"
 collection: publications
-
+status: working_paper
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
