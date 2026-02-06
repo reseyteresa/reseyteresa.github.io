@@ -1,14 +1,18 @@
 ---
-title: "Paper Title Number 3"
+title: "Working Paper: How Does the Complexity of Housing Policy Affect Its Acceptance in Singapore?"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+# permalink: /publication/2025-06-18-singapore-housing-policy
+excerpt: ''
+date: 2025-06-18
+#venue: 'Journal'
+#slidesurl: ''
+#paperurl: ''
+#bibtexurl: ''
+citation: 'Ng, T., Li, W. T., Ip, R., Ye, S., & Nopany, A. (2025). How does the complexity of housing policy affect its acceptance in Singapore? Working paper.'
 ---
+This paper examines how the perceived complexity of Singapore’s Build-To-Order (BTO) housing policy affects public understanding, acceptance, and satisfaction. Using a mixed-method approach combining a heuristic usability assessment of the HDB website and a cross-sectional survey of university students and faculty, the study evaluates how policy communication and accessibility shape housing perceptions.
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The findings show that while Singapore’s housing policies are fundamentally affordable and well-designed, information delivery plays a critical role in shaping public attitudes. Many respondents struggled to navigate eligibility criteria and grant information, leading to delays or reconsideration of BTO applications. Importantly, perceptions of affordability improved after respondents were shown simplified explanations and realistic mortgage calculations, highlighting the role of transparent communication. The results suggest that dissatisfaction with public housing is driven less by policy failure and more by complexity in presentation, with important implications for policy design and public trust.
+
+[PDF](/files/Singapore_Housing_Policies_Research_Paper.pdf)
