@@ -11,9 +11,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - #title: "Tuitions"
-    url: /tuitions/    
-
   - title: "Tutorials"
     url: /tutorials/    
     
@@ -25,6 +22,10 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - #title: "Tuitions"
+    url: /tuitions/    
+
     
   # - title: "CV"
   #   url: /cv-json/
