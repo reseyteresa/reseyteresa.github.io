@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Awaiting PhD in Economics Enrollment
+* Incoming PhD Student (Economics), NUS (Matriculating Aug 2026)
 * M.S. in Economics, Singapore Management University
 * B.S. in Economics, University at Buffalo [New York]
 
