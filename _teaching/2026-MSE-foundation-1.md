@@ -29,7 +29,7 @@ The session focuses on building intuition and technical proficiency required for
 
 ## Tutorial Materials
 
-* [Matrix Algebra Tutorial 1 Notes (PDF)](/files/ECON6018_Tutorial1_MatrixAlgebra.pdf)
+# * [Matrix Algebra Tutorial 1 Notes (PDF)](/files/ECON6018_Tutorial1_MatrixAlgebra.pdf)
 
 
 ---

@@ -28,7 +28,7 @@ This tutorial introduces **Differentiation** as a core mathematical tool for gra
 
 ## Tutorial Materials
 
-* [Differentiation Tutorial 3 Notes (PDF)](/files/ECON6018_Tutorial3_Differentiation.pdf)
+# * [Differentiation Tutorial 3 Notes (PDF)](/files/ECON6018_Tutorial3_Differentiation.pdf)
 
 ---
 

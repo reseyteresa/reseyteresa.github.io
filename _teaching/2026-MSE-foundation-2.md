@@ -28,7 +28,7 @@ The session emphasizes both intuition and technical accuracy, preparing students
 
 ## Tutorial Materials
 
-* [Matrix Algebra Tutorial 2 Notes (PDF)](/files/ECON6018_Tutorial2_InverseMatrix.pdf)
+# * [Matrix Algebra Tutorial 2 Notes (PDF)](/files/ECON6018_Tutorial2_InverseMatrix.pdf)
 
 ---
 
