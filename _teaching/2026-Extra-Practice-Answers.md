@@ -12,7 +12,8 @@ location: "Singapore"
 **Instructor:** Teresa Ng  
 **Date:** January 2026  
 
-This document contains the **official solutions** to the ECON 6018 Tutorial Practice Questions.  
+Exercises in these notes are referenced from the prescribed textbook, Essential Mathematics for Economic Analysis (5th edition) by Knut Sydsæter, Peter Hammond, Arne Strøm, and Andrés Carvajal. Only the mathematical expressions needed for class are shown here; students should refer to the textbook for the full question statements and context.
+
 The answers are designed to reinforce matrix algebra techniques and strengthen technical accuracy required for graduate-level economics.
 
 ---
@@ -25,6 +26,10 @@ The answers are designed to reinforce matrix algebra techniques and strengthen t
 * Inverse matrices  
 * Proof-based matrix identities  
 * Applications in economic modelling  
+* Differentiations
+* Higher Order Differentiations
+* Partial Differentiations
+* Implicit Differentiations
 
 ---
 
