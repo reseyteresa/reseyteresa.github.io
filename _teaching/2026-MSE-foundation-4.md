@@ -31,7 +31,7 @@ The session emphasizes conceptual clarity, structured computation, and exam-spee
 
 ## Tutorial Materials
 
-# * [Partial Derivatives & Implicit Differentiation Tutorial 4 Notes (PDF)](/files/ECON6018_Tutorial4_Differentiation.pdf)
+* [Partial Derivatives & Implicit Differentiation Tutorial 4 Notes (PDF)](/files/ECON6018_Tutorial4.pdf)
 
 ---
 
