@@ -24,11 +24,12 @@ author:
   # Biographic information
   avatar: "/images/TeresaNgYanTing.png"
   name             : "Teresa Ng Yan Ting"
-  bio              : "I am a Graduate student in Economics with a passion for teaching and research. I tutor mathematics and economics and am particularly interested in how economic theory connects to real-world policy and data."
+  bio              : "I am an incoming PhD student in Economics at NUS. At SMU, I teach tutorial sessions in Mathematics for Economics for masters students. My academic interests lie in connecting economic theory to policy-relevant questions and data-driven research."
   location         : "Singapore"
-  #employer         : "Singapore Management University"
+  PhD       : "National University of Singapore"
   uri              : # URL
   email            : "ng.teresa.1999@gmail.com" 
+  linkedin         : "www.linkedin.com/in/teresangyanting"
 
   # Academic websites
   # academia         : # URL
