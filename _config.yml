@@ -29,9 +29,9 @@ author:
   uri              : # URL
   email            : "ng.teresa.1999@gmail.com" 
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/teresangyanting/"
+  - label: "LinkedIn"
+    icon: "fab fa-linkedin"
+    uri: "https://www.linkedin.com/in/teresangyanting/"
 
   # Academic websites
   # academia         : # URL
@@ -116,7 +116,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "ng.teresa.1999@gmail.com"
   generatedFields:
     date:
       type               : "date"
