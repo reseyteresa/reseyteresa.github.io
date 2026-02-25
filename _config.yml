@@ -26,10 +26,11 @@ author:
   name             : "Teresa Ng Yan Ting"
   bio              : "I am an incoming PhD student in Economics at NUS. At SMU, I teach tutorial sessions in Mathematics for Economics for masters students. My academic interests lie in connecting economic theory to policy-relevant questions and data-driven research."
   location         : "Singapore"
-  PhD       : "National University of Singapore"
+  education:
+  - "PhD in Economics (Incoming), National University of Singapore"
   uri              : # URL
   email            : "ng.teresa.1999@gmail.com" 
-  linkedin         : "www.linkedin.com/in/teresangyanting"
+  linkedin: "https://www.linkedin.com/in/teresangyanting"
 
   # Academic websites
   # academia         : # URL
