@@ -7,8 +7,26 @@ author_profile: true
 
 {% include base_path %}
 
-
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+  <div class="archive__item">
+    <h3 class="archive__item-title">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h3>
 
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt">
+        {{ post.excerpt | strip_html | truncate: 180 }}
+      </p>
+    {% endif %}
+
+    {% if post.image %}
+      <a href="{{ post.url | relative_url }}">
+        <img
+          src="{{ post.image | relative_url }}"
+          alt="{{ post.title }}"
+          style="width:100%; max-width:720px; height:220px; object-fit:cover; display:block; margin:8px 0 16px 0; border-radius:10px;"
+        >
+      </a>
+    {% endif %}
+  </div>
+{% endfor %}

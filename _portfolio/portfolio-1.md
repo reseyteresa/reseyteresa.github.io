@@ -3,8 +3,7 @@ title: "Community Engagement During COVID-19: Supporting Milksha’s Sanitizer G
 collection: portfolio
 date: 2020-05-01
 location: "Singapore"
-header:
-  teaser: /images/Milksha_Teresa_Hand_Sanitizer.png
+image: /images/Milksha_Teresa_Hand_Sanitizer.png
 ---
 
 During the COVID-19 pandemic, I was happy to be part of the **Milksha Singapore** team that participated in a public initiative to distribute **free naturally derived disinfectant hand sanitizer** to customers. This initiative was reported by *8days.sg* and aimed to support public hygiene efforts during a period of heightened uncertainty and health risk.

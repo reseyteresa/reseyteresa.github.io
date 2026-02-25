@@ -1,13 +1,12 @@
 ---
 title: "Mission Trip to Cambodia (2017 & 2018): Values Education & Sports Day Leadership"
 collection: portfolio
-date: 2019-01-01
+date: 2018-12-30
 location: "Cambodia"
-header:
-  teaser: /images/Cambodia_Mission_Teaser.png
+image: /images/Cambodia.jpg
 ---
 
-In **2017** and **2018**, I joined a missionary trip to **Cambodia** under *Call to Share*. I was assigned the role of **team leader**, leading groups to conduct values-based classes for children raised in slum communities. Through interactive lessons and activities, we focused on cultivating **teamwork**, **encouragement**, and the right way to **support one another**. A key highlight was planning and hosting a full **Sports Day**, where children could practice these values through team games and group challenges.
+In **2017** and **2018**, I joined a missionary trip to **Cambodia** under *Call to Share*. I was assigned the role of **team leader**, leading groups to conduct values-based classes for children raised in slum communities. Through interactive lessons and activities, we focused on cultivating **teamwork**, **encouragement**, and the right way to **support one another**.
 
 ---
 
@@ -15,7 +14,6 @@ In **2017** and **2018**, I joined a missionary trip to **Cambodia** under *Call
 - Team leader for the Cambodia mission trips (2017 & 2018)
 - Led groups to conduct values-based classes for children raised in slum communities
 - Planned and facilitated interactive activities focused on teamwork and supporting one another
-- Coordinated and hosted a full Sports Day (games, stations, and overall flow)
 
 ### What I Took Away
 - Learned to lead and coordinate teams in a real, on-the-ground setting
