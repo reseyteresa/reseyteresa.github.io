@@ -1,7 +1,7 @@
 ---
 title: "Mission Trip to Cambodia (2017 & 2018): Values Education & Sports Day Leadership"
 collection: portfolio
-date: 2018-08-01
+date: 2019-01-01
 location: "Cambodia"
 header:
   teaser: /images/Cambodia_Mission_Teaser.png
