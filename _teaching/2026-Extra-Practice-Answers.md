@@ -1,5 +1,5 @@
 ---
-title: "ECON 6018 Tutorial Practice Answers"
+title: "ECON 6018 Extra Practice Answers"
 collection: teaching
 type: "Master’s Course Tutorial"
 permalink: /teaching/2026-Answers
