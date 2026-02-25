@@ -1,5 +1,5 @@
 ---
-title: "Mission Trip to Cambodia (2017 & 2018): Values Education & Sports Day Leadership"
+title: "Mission Trip to Cambodia (2017 & 2018)"
 collection: portfolio
 date: 2018-12-30
 location: "Cambodia"
