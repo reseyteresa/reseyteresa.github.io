@@ -27,7 +27,7 @@ This tutorial focuses on **Differentials** and extends it to **Total Differentia
 
 ## Tutorial Materials
 
-* [Implicit Differentiation Tutorial 5 Notes (PDF)](/files/ECON6018_Tutorial6.pdf)
+* [Differential Tutorial 6 Notes (PDF)](/files/ECON6018_Tutorial6.pdf)
 
 ---
 
