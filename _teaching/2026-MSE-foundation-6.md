@@ -32,16 +32,7 @@ This tutorial focuses on **Differentials** and extends it to **Total Differentia
 ---
 
 ## Notes
-
-This tutorial is especially useful for:
-
-* Comparative statics (implicit function relationships)  
-* Solving equilibrium conditions without explicit solutions  
-* Hessian/curvature work when functions are defined implicitly  
-* Handling multivariable differentiation in micro/econometrics
-
-Students should aim to practice until the differentiation steps become automatic — speed matters a lot in exams.
-
+* This topic can be difficult to grasp, do email me should you require extra tutorial.
 ---
 
 ## Feedback
