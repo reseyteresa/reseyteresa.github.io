@@ -4,7 +4,7 @@ collection: teaching
 type: "Master’s Course Tutorial"
 permalink: /tutorials/2026-MSE-foundation-6
 venue: "Singapore Management University"
-date: 2026-03-2013
+date: 2026-03-13
 location: "Singapore"
 ---
 
