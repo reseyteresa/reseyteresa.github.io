@@ -1,5 +1,5 @@
 ---
-title: "ECON 6018 Tutorial 5: Implicit Differentiation & Second-Order Derivatives"
+title: "ECON 6018 Tutorial 6: Differentials"
 collection: teaching
 type: "Master’s Course Tutorial"
 permalink: /tutorials/2026-MSE-foundation-6
@@ -12,7 +12,7 @@ location: "Singapore"
 **Instructor:** Teresa Ng  
 **Date:** 13 March 2026  
 
-This tutorial focuses on **Differential** and extends it to **Total Differential**.
+This tutorial focuses on **Differentials** and extends it to **Total Differential**.
 
 ---
 
