@@ -6,6 +6,7 @@ permalink: /tutorials/2026-MSE-foundation-1
 venue: "Singapore Management University"
 date: 2026-01-23
 location: "Singapore"
+course: "SMU MSE ECON6018 Tutorials 2026"
 ---
 
 **Course:** ECON 6018 (Master’s Level)  

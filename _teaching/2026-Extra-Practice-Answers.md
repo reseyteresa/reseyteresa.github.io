@@ -6,6 +6,7 @@ permalink: /teaching/2026-Answers
 venue: "Singapore Management University"
 date: 2026-01-01
 location: "Singapore"
+course: "SMU MSE ECON6018 Tutorials 2026"
 ---
 
 **Course:** ECON 6018 (Master’s Level)  
