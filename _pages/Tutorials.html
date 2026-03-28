@@ -7,6 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% assign grouped_courses = site.teaching | map: "course" | compact | uniq %}
+
+{% for course_name in grouped_courses %}
+  {% assign course_posts = site.teaching | where: "course", course_name | sort: "date" %}
+  {% assign first_post = course_posts.first %}
+  <h2><a href="/tutorials/{{ course_name | slugify }}/">{{ course_name }}</a></h2>
+{% endfor %}
+
+{% assign standalone_posts = site.teaching | where_exp: "post", "post.course == nil" %}
+
+{% for post in standalone_posts reversed %}
   {% include archive-single.html %}
 {% endfor %}
