@@ -2,7 +2,7 @@
 title: "ECON 6018 Mock Exam 1 & 2"
 collection: teaching
 type: "Master’s Course Tutorial"
-permalink: /tutorials/2026-MSE-foundation-mock-exam
+permalink: /tutorials/2026-MSE-foundation-mock-exam/
 venue: "Singapore Management University"
 date: 2026-03-28
 location: "Singapore"
