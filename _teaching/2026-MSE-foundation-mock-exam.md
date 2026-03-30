@@ -20,5 +20,7 @@ I have created two mock paper in the likeness of your final examination and hope
 Please find the attached Mock Examinations here:
 [ECON6018 Mock Examinations](/files/ECON6018-Mockexam.pdf)
 
-The answers will be uploaded on Sunday. 
-Do email if you have any additional questions.
+Please find the Answers here:
+[ECON6018 Mock Examinations Answers](/files/Mock-Exam-Answers.pdf)
+
+As I will not be involved in marking the scripts, please email me only for questions or clarifications.
