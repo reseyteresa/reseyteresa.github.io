@@ -22,7 +22,7 @@ repository: "reseyteresa/reseyteresa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "/images/TeresaNgYanTing.png"
+  avatar           : "/images/TeresaNgYanTing.png"
   name             : "Teresa Ng Yan Ting"
   bio              : "I am a first-year PhD student in Economics at the National University of Singapore (NUS). Prior to beginning my doctoral studies, I taught Mathematics for Economics tutorials for master’s students at Singapore Management University (SMU). My interests span economic theory, econometrics, and policy, particularly how economic ideas and empirical methods can be brought together to study real-world, policy-relevant questions."
   location         : "Singapore"
