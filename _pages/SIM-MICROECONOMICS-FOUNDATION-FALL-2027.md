@@ -6,7 +6,7 @@ layout: single
 
 ## Tutorials
 
-{% assign tutorials = site.teaching | where: "course", "SIM MICROECONOMICS FOUNDATION FALL 2027" | sort: "date" %}
+{% assign tutorials = site.teaching | sort: "date" %}
 
 <ul>
 {% for t in tutorials %}
