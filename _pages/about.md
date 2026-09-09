@@ -9,7 +9,7 @@ redirect_from:
 
 ### About
 
-I am an incoming PhD student in Economics at National University of Singapore with interests in applied microeconomics, econometrics, and public policy. My work focuses on using data and empirical methods to understand economic behavior and policy outcomes.
+I am a First Year PhD student in Economics at National University of Singapore with interests in applied microeconomics, econometrics, and public policy. My work focuses on using data and empirical methods to understand economic behavior and policy outcomes.
 
 This website is a personal academic repository for my research, tutorials, and notes. It is designed as a resource for students taking economics courses, as well as a space to document and reflect on my academic work.
 
