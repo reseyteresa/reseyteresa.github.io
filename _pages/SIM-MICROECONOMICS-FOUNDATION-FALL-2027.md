@@ -1,12 +1,12 @@
 ---
 title: "SIM MICROECONOMICS FOUNDATION FALL 2027"
-permalink: /tutorials/sim-econ181-foundation-macroeconomics-2027/
+permalink: /tutorials/sim-econ181-foundation-microeconomics-2027/
 layout: single
 ---
 
 ## Tutorials
 
-{% assign tutorials = site.teaching | sort: "date" %}
+{% assign tutorials = site.teaching | where: "course", "SIM MICROECONOMICS FOUNDATION FALL 2027" | sort: "date" %}
 
 <ul>
 {% for t in tutorials %}
